@@ -1,4 +1,4 @@
-# Welcome to panda
+# Welcome to panda — AdventurePilot fork
 
 panda speaks CAN and CAN FD, and it runs on the [STM32H725](https://www.st.com/resource/en/reference_manual/rm0468-stm32h723733-stm32h725735-and-stm32h730-value-line-advanced-armbased-32bit-mcus-stmicroelectronics.pdf).
 
